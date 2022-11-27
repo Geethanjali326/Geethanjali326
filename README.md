@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&width=500&height=100&lines=Hello%2C+There!+%F0%9F%91%8B;This+is++Geethanjali+%F0%9F%A6%84;Nice+to+meet+you+%F0%9F%A4%9D%F0%9F%A4%A9;Have+a+great+day+%F0%9F%8C%88+%F0%9F%92%AB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=30&duration=3000&pause=500&center=true&vCenter=true&width=500&height=100&lines=Hello%2C+There!+%F0%9F%91%8B;This+is++Geethanjali+%F0%9F%A6%84;Nice+to+meet+you+%F0%9F%A4%9D%F0%9F%A4%A9;Have+a+great+day+%F0%9F%8C%88+%F0%9F%92%AB)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Geethanjali</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://manmeetkaurbaxi.com/image/https%3A%2F%2Fmiro.medium.com%2Fmax%2F1400%2F1*qdAW1TjCN57h1lbuuzvchg.gif?table=block&id=86872c43-aee4-458c-9fbb-b62551f646af&spaceId=a9af9f4b-540b-4210-9a45-a6f1833205be&userId=&cache=v2">
